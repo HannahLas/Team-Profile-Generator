@@ -1,7 +1,6 @@
 const Manager = require("./lib/Manager");
 const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
-const inquirer = require("inquirer");
 const path = require("path");
 const fs = require("fs");
 
@@ -10,10 +9,9 @@ const outputPath = path.join(OUTPUT_DIR, "team.html");
 
 const render = require("./src/page-template.js");
 
-import inquirer from "inquirer";
-const inquirer = require("inquirer");
-
 const teamMembers = [];
+
+const inquirer = require("inquirer");
 
 function createManager() {
   inquirer
