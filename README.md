@@ -8,7 +8,7 @@ I completed this task for the Module 12 challenge in the edX Skills Boot Camp in
 The user needs to navigate to the correct file directory and then type in 'node index.js.' The user then needs to answer a range of questions in the command line. A HTML file should then be created. 
 
 
-[linktoscreenshot](Screenshot.png)
+[linktoscreenshot](Screenshot .png) 
 
 Here is a link to the final webpage: https://hannahlas.github.io/Team-Profile-Generator
 
